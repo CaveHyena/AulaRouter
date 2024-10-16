@@ -5,6 +5,8 @@ import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
+import './index.css'
+import './App.css'
 
 export default function App () {
   return (
